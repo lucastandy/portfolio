@@ -1,6 +1,6 @@
 import InformationContainer from './InformationContainer';
 import SocialNetworks from './SocialNetwors';
-import Avatar from '../img/eu.jpg';
+import Avatar from '../img/eu.png';
 
 import "../styles/components/sidebar.sass"
 
