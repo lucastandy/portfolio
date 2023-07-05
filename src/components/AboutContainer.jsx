@@ -1,8 +1,8 @@
 const AboutContainer = () => {
     return <section className="about-container">
         <h2>Sobre</h2>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis sapiente, recusandae eaque magnam quod consectetur corporis labore placeat eius aut exercitationem adipisci doloribus ipsa qui. Quam vel error exercitationem assumenda?</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident necessitatibus illum totam, molestiae delectus optio obcaecati perferendis, tenetur mollitia veniam explicabo recusandae rem incidunt possimus adipisci distinctio, vero repellat! Illo.</p>
+        <p>Pós-graduando em Engenharia de Software pela Estácio, formado em Ciências da Computação pela Universidade Estadual Vale do Acaraú - UVA, tem experiência com as stacks: PHP, JavaScript, Python, Node, MySql, PostreSQL e demais ferramentas.</p>
+        <p>Fique à vontade para entrar em contato comigo para explorarmos maneiras de trabalhar juntos e impulsionar o sucesso do seu negócio!</p>
     </section>
 };
 
